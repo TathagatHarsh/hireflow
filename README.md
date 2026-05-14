@@ -16,15 +16,6 @@ A production-grade, multi-tenant SaaS platform that automates end-to-end recruit
 
 ---
 
-## 👥 Team
-| Name | Enrolment No. |
-| :--- | :--- |
-| **Priyansh Satija** | 2401010355 |
-| Tathagat Harsh | 2401010477 |
-| Bhavay Goyal | 2401010126 |
-| Pranav Sehgal | 2401010332 |
-| Preet | 2401010352 |
-
 ---
 
 ## 📋 Table of Contents
@@ -195,7 +186,3 @@ Located in `SYSTEM_DESIGN_DOCS/`:
 - **ER Diagram**: `ER_DIAGRAM.png`
 
 ---
-
-<div align="center">
-Made with ❤️ by Team HireFlow · Newton School of Technology · 2026
-</div>
