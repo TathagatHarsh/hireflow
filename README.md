@@ -1,18 +1,19 @@
-<div align="center">
-<h1>🚀 HireFlow</h1>
-<h3>AI-Powered B2B Hiring Process Orchestration SaaS</h3>
+# 🚀 HireFlow
+
+**Tech Stack**: Built using TypeScript, Node.js, Next.js, and PostgreSQL.
+
+**Description**: A modern and interactive hiring process orchestration application that allows recruiters to manage their candidate pipelines seamlessly. Features include AI-powered resume parsing (Groq Llama 3), automated candidate scoring, real-time pipeline tracking via WebSockets, and secure multi-tenant isolation. The application provides instant updates and a sleek, intuitive UI, making recruitment workflows more efficient and user-friendly.
 
 <p align="center">
-  <img src="SYSTEM_DESIGN_DOCS/USE_CASE_DIAGRAM.png" width="300" />
-  <img src="SYSTEM_DESIGN_DOCS/CLASS_DIAGRAM.png" width="300" />
-  <img src="SYSTEM_DESIGN_DOCS/ER_DIAGRAM.png" width="300" />
+  <img src="SYSTEM_DESIGN_DOCS/USE_CASE_DIAGRAM.png" width="250" />
+  <img src="SYSTEM_DESIGN_DOCS/CLASS_DIAGRAM.png" width="250" />
+  <img src="SYSTEM_DESIGN_DOCS/ER_DIAGRAM.png" width="250" />
 </p>
 
-A production-grade, multi-tenant SaaS platform that automates end-to-end recruitment workflows using Groq AI (Llama 3) for intelligent resume parsing and candidate evaluation — built on Clean Architecture with six design patterns and full SOLID compliance.
+---
 
 **Academic Project · Software Design Course · Newton School of Technology · Rishihood University · 2025–26**
 
-</div>
 
 ---
 
